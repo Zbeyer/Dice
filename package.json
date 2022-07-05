@@ -1,5 +1,5 @@
 {
-	"name": "dice",
+	"name": "zbeyer-dice",
 	"version": "1.0.0",
 	"description": "",
 	"main": "dist/index_bundle.js",
